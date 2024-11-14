@@ -20,7 +20,6 @@ right_back_wheel = encoder_motor_class("M6", "INDEX1")
 MAX_SPEED = 255
 SPEED_MULTIPLIER = 2.1
 PID_SPEED_MULTIPLIER = 0.6
-BL_POWER = 100
 
 
 class PID:

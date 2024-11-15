@@ -80,16 +80,16 @@ class holonomic:
     pids = {
         "lf": PID(Kp=1, Ki=0, Kd=0),
         "lb": PID(Kp=1, Ki=0, Kd=0),
-        "rf": PID(Kp=0.9, Ki=0, Kd=0),
-        "rb": PID(Kp=0.9, Ki=0, Kd=0),
+        "rf": PID(Kp=1, Ki=0, Kd=0),
+        "rb": PID(Kp=1, Ki=0, Kd=0),
     }
 
     # motor tune
     tune = {
         "fl": 1,
-        "fr": 0.7,
+        "fr": 1,
         "bl": 1,
-        "br": 0.5,
+        "br": 1,
     }
 
     def drive(vx, vy, wL, deadzone=5, pid=False):

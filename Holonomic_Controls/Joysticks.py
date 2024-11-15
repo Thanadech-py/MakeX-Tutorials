@@ -77,8 +77,8 @@ class holonomic:
     pids = {
         "lf": PID(Kp=1, Ki=0, Kd=0),
         "lb": PID(Kp=1, Ki=0, Kd=0),
-        "rf": PID(Kp=0.9, Ki=0, Kd=0),
-        "rb": PID(Kp=0.9, Ki=0, Kd=0),
+        "rf": PID(Kp=1, Ki=0, Kd=0),
+        "rb": PID(Kp=1, Ki=0, Kd=0),
     }
 
     # motor tune

@@ -5,9 +5,8 @@ In this repository I create a Micropython file for NovaPi Board that is used in 
 
 <h2>So this repo would be contained</h2>
 
-- Holonomic Movement
-- DC motor controller
-- mode changer (working in progress)
+- Holonomic Movement and mode changer
+- DC Motors and Blushless Motors controller
 
 <h2>The Official Documents</h2>
 

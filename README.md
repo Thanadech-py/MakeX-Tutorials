@@ -1,5 +1,7 @@
 <h1>This repo is about MakeX Tutorials and Lab</h1>
-In this repository I create a Micropython file for NovaPi Board that is used in MakeX Challenge Robotics competition to be the tutorial for the new generation of the team that tries to participate in the competition as a learning space. The Contestant can also using these tutorials code at the competition But!!!! I hardly recomanded that the user should improve the code.
+In this repository I create a Micropython file for NovaPi Board that is used in MakeX Challenge Robotics competition to be the tutorial for the new generation of the team that tries to participate in the competition as a learning space. The Contestant can also using these tutorials code at the competition 
+
+But!!!! I hardly recomanded that the user should improve the code.
 
 <h2>So this repo would be contained</h2>
 

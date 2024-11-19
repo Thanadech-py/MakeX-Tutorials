@@ -14,6 +14,10 @@ In this repository I create a Micropython file for NovaPi Board that is used in 
 
 - [Makeblock Officail Materials](https://grabcad.com/library/data-of-makeblock-parts-1).
 
-<h2>Other MakeX Tutorials from [Piyaphat Liamwilai](https://github.com/piyaphatliamwilai) </h2>
+<h2>Other MakeX Tutorials from 
+  
+  [Piyaphat Liamwilai](https://github.com/piyaphatliamwilai)
+  
+  </h2>
 
 - [makex-base](https://github.com/piyaphatliamwilai/makex-base)

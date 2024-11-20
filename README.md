@@ -1,25 +1,18 @@
-<h1>This repo is about MakeX Tutorials and Lab</h1>
-In this repository I create a Micropython file for NovaPi Board that is used in MakeX Challenge Robotics competition to be the tutorial for the new generation of the team that tries to participate in the competition as a learning space. The Contestant can also using these tutorials code at the competition.
+## MakeX Tutorials and Lab
+In this repository is a collection of file written in MicroPython to do various tasks in the MakeX competition. This is done to be the example for the next generations of team participating in the MakeX Challenger competition who are interested in using MicroPython files in their robot.
 
-<h6>But!!!! I hardly recomanded that the user should improve the code.</h6>
+> But, it should be noted that you should improve some of the codes inside this repository.
 
-<h2>So this repo would be contained</h2>
+### Contents
+- Holonomic movement and changeable mode control
+- DC motors and brushless controller
 
-- Holonomic Movement and mode changer
-- DC Motors and Blushless Motors controller
+### The Official Documents
 
-<h2>The Official Documents</h2>
+- [MicroPython For NovaPi](https://github.com/Makeblock-official/micropython-api-doc/tree/master/docs/novapi/modules/modules).
 
-- [MicroPython For NovaPI](https://github.com/Makeblock-official/micropython-api-doc/tree/master/docs/novapi/modules/modules).
+- [Makeblock Official Materials](https://grabcad.com/library/data-of-makeblock-parts-1).
 
-- [Makeblock Officail Materials](https://grabcad.com/library/data-of-makeblock-parts-1).
-
-<h2>Other MakeX Tutorials from 
-  
-  [Piyaphat Liamwilai](https://github.com/piyaphatliamwilai)
-  
-  </h2>
-
+### Other tutorials done by [Piyaphat Liamwilai](https://github.com/piyaphatliamwilai)
 - [makex-base](https://github.com/piyaphatliamwilai/makex-base)
-
 - [neumann-lab](https://github.com/neumann-lab)
